@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/56dbf06edcf663066a400.jpg",
     "description": "veez music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/nishfu22/yakuza-music",
+    "repository": "https://github.com/nishfu22/yakuza-musicbot",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
