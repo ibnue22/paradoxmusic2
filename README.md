@@ -1,6 +1,6 @@
 <p align="center"><a href="https://t.me/paradoxserver1"><img src="YAKUZA MUSICBOT"></a></p>
 <p align="center">
-    <br><b>Yakuza Music is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
+    <br><b>Paradox music is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
@@ -89,7 +89,7 @@
 ## Heroku Deployment <img src="./etc/Kenpurple.gif" width="40px">
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nishfu22/yakuza-musicbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ibnue22/paradoxmusic2)
 
 ## VPS Deployment 📡
 
